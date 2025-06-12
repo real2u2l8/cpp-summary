@@ -3,8 +3,8 @@
  * @brief Windows API를 사용한 쓰레드와 콜백 함수 예제 프로그램
  * @details 사용자가 입력한 시간 후에 알람이 울리는 프로그램으로,
  *          쓰레드와 콜백 함수의 기본적인 사용법을 보여줍니다.
- * @author Your Name
- * @date 2024-01
+ * @author real2u2l8
+ * @date 2025-06-12
  */
 
 #include "pch.h"
