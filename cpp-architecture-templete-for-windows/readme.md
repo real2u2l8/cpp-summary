@@ -16,7 +16,9 @@
 1. 솔루션 구성
    - Debug/Release 구성 포함
    - x86/x64 플랫폼 지원
-
+   - 속성/모든구성/구성속성
+   - 출력 디렉터리: ..\Build\$(Platform)$(Configuration)\
+   - 중간 디렉터리: ..\Output\$(Platform)$(Configuration)\$(ProjectName)\
 2. 주요 컴파일러 설정
    - 문자 집합: 유니코드
    - C++ 언어 표준: C++17
